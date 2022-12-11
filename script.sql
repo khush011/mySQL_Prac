@@ -112,6 +112,18 @@ inner join product2 as p2
 on p.prod = p2.prod;
 
 -- Inner joins
-
+------------------
+sdfs
+fd
+sdf
+dsf
+sd
+fs
+df
+sdf
+sdf
+ds
+f
+sd
 
 
